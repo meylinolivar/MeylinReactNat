@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "meylinReactNat",
+    "slug": "meylinReactNat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "meylinReactNat"
+}
